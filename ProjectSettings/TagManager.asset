@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Sphere
+  - Cube
+  - Plane
   layers:
   - Default
   - TransparentFX
@@ -12,8 +14,8 @@ TagManager:
   - Sphere
   - Water
   - UI
-  - 
-  - 
+  - Cube
+  - Plane
   - 
   - 
   - 
